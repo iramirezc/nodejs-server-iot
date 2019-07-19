@@ -20,7 +20,7 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "glob": "^7.1.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "mongoose": "^5.5.11"
   },
   "devDependencies": {
