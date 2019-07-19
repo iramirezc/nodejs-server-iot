@@ -19,7 +19,8 @@ describe('Setting Model - Unit Tests', () => {
         min_lighting: 0,
         max_lighting: 1,
         min_temperature: 0,
-        max_temperature: 1
+        max_temperature: 1,
+        frequency: 1
       })
     })
   })

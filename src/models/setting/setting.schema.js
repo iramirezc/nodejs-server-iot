@@ -36,6 +36,10 @@ const SettingSchema = new mongoose.Schema({
   max_temperature: {
     type: Number,
     default: 1
+  },
+  frequency: {
+    type: Number,
+    default: 1 // in seconds
   }
 })
 
